@@ -1,0 +1,7 @@
+airflow/airflow.cfg
+airflow/airflow*
+
+airflow/logs
+airflow/webserver_config.py
+spark/spark*
+.env
